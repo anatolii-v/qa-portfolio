@@ -1,16 +1,22 @@
-Senior QA Engineer with 6+ years of commercial experience delivering reliable, client-ready quality across enterprise and startup environments in various domains.
+## About Me
 
-Skills:
+I am a strategic QA Engineer who applies **Risk-Based Testing** and **Shift-Left** 
+approach to prevent defects as early as possible in the development lifecycle.
 
-- Test Strategy & Risk Assessment
-
-- Test documentation
-
-- Defect lifecycle management
-
-- Exploratory Testing
-
-- Database Validation
+I work across the full **SDLC** and **STLC** — from requirements analysis 
+to production release and post-release monitoring.
 
 
+- **Functional Testing:** Smoke, Sanity, Regression, UAT (User Acceptance Testing)
 
+- **End-to-End Testing across all layers:** UI Testing · API Testing · Database Testing 
+
+- **Test Documentation:**  Test Plans, Test Cases, Checklists, Bug Reports
+
+- **Test Design :** use various techniques, including **Exploratory Testing** 
+
+- **Defect Management:**  from reporting to retesting & root cause analysis (RCA)
+
+I am convinced that both the development process and its outcomes 
+can — and should — be measured through **QA and Testing Metrics**, 
+turning quality from a subjective opinion into data-driven decisions.
