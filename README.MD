@@ -18,5 +18,5 @@ to production release and post-release monitoring.
 - **Defect Management:**  from reporting to retesting & root cause analysis (RCA)
 
 I am convinced that both the development process and its outcomes 
-can — and should — be measured through **QA and Testing Metrics**, 
+can be and should be measured through **QA and Testing Metrics**, 
 turning quality from a subjective opinion into data-driven decisions.
